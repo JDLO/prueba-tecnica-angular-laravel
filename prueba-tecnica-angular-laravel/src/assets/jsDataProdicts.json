@@ -1,0 +1,47 @@
+{
+    "products": [
+        {
+            "name": "Some name 1",
+            "currency": "USD",
+            "discount": "10",
+            "price":"45.26",
+            "img":"img1"
+        },
+        {
+            "name": "Some name 2",
+            "currency": "USD",
+            "discount": "15",
+            "price":"45.26",
+            "img":"img2"
+        },
+        {
+            "name": "Some name 3",
+            "currency": "USD",
+            "discount": "67",
+            "price":"45.26",
+            "img":"img3"
+        },
+        {
+            "name": "Some name 4",
+            "currency": "USD",
+            "discount": "80",
+            "price":"45.26",
+            "img":"img4"
+        },
+        {
+            "name": "Some name 5",
+            "currency": "USD",
+            "discount": "25",
+            "price":"45.26",
+            "img":"img5"
+        },
+        {
+            "name": "Some name 6",
+            "currency": "USD",
+            "discount": "36",
+            "price":"45.26",
+            "img":"img6"
+        }
+
+    ]
+}

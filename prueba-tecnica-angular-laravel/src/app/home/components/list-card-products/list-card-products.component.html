@@ -1,0 +1,6 @@
+<div id="flex">
+    <div *ngFor="let product of products">
+        <app-card-products [product]="product" (click)="add(product)">
+        </app-card-products>
+    </div>
+</div>

@@ -1,0 +1,7 @@
+<app-header-principal></app-header-principal>
+<div id="display_pro">
+    <h2 class="new_arr">New Arrivals</h2>
+    <app-list-card-products [products]="products" 
+            (addToCartShop)="onAddDish($event)">
+    </app-list-card-products>
+</div>
